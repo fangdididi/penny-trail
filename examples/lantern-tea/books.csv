@@ -1,0 +1,14 @@
+id,date,amount,ref,desc
+L01,2026-09-01,-1800.00,RENT-09,Shop rent September
+L02,2026-09-02,412.00,,Card sales 2 Sep
+L03,2026-09-03,389.50,,Card sales 3 Sep
+L04,2026-09-04,275.00,,Card sales 4 Sep
+L05,2026-09-04,-30.15,,Card processor fees week 1
+L06,2026-09-08,-1845.00,HL-2291,Hillside Leaf - oolong restock
+L07,2026-09-10,640.00,,Cash deposit
+L08,2026-09-15,-226.80,PK-118,Packaging Co - tins and labels
+L09,2026-09-15,-226.80,PK-118,Packaging Co - tins and labels
+L10,2026-09-22,-158.33,,Electricity August
+L11,2026-09-30,520.00,,Cash deposit (weekend takings)
+L12,2026-09-28,-95.00,CHQ-1043,Cheque 1043 - Mo's Repairs (kettle)
+L13,2026-09-18,48.00,ORD-7731,Customer refund order 7731
